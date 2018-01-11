@@ -13,5 +13,6 @@ jekyll server
 
 ### 参考文档
 
-[参考文档](https://help.github.com/categories/github-pages-basics)github托管
-[参考文档](http://jekyllcn.com/docs/configuration/)jekyll配置
+参考文档：github托管[#](https://help.github.com/categories/github-pages-basics)github托管
+
+参考文档j：jekyll配置[#](http://jekyllcn.com/docs/configuration/)
