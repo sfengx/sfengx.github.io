@@ -7,7 +7,6 @@ data_source: ./_data
 collections: null
 
 # 服务器选项
-port: 4000
 baseurl: /blog
 
 # 过滤
