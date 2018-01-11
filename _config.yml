@@ -1,1 +1,7 @@
+source: .
+destination: ./blog
 baseurl: /blog
+
+# 服务器选项
+
+port: 4000
