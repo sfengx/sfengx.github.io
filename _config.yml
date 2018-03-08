@@ -1,6 +1,6 @@
 # 目录结构
 #source: .
-destination: ./blog #打包路径
+destination: ./ #打包路径
 #plugins:     ./_plugins
 #layouts:     ./_layouts
 #data_source: ./_data
