@@ -8,7 +8,7 @@ url: "sfengx.github.io"
 #collections: null
 
 # 服务器选项
-baseurl: "/"
+baseurl: ""
 
 # 过滤
 exclude: ['README.md', 'Rakefile']
