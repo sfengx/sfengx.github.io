@@ -7,7 +7,7 @@ destination: ./blog #打包路径
 #collections: null
 
 # 服务器选项
-baseurl: /blog
+baseurl: /
 
 # 过滤
 exclude: ['README.md', 'Rakefile']
