@@ -1,14 +1,14 @@
 # 目录结构
 #source: .
 url: "sfengx.github.io"
-destination: ./blog #打包路径
+# destination: ./blog #打包路径
 #plugins:     ./_plugins
 #layouts:     ./_layouts
 #data_source: ./_data
 #collections: null
 
 # 服务器选项
-baseurl: ""
+baseurl: "/"
 
 # 过滤
 exclude: ['README.md', 'Rakefile']
