@@ -11,3 +11,8 @@ baseurl: /blog
 
 # 过滤
 exclude: ['README.md', 'Rakefile']
+
+#
+sass:
+  sass_dir: /public/css
+  style: compressed
