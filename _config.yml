@@ -15,5 +15,5 @@ exclude: ['README.md', 'Rakefile']
 
 #
 sass:
-  sass_dir: /public/css
+  sass_dir: /blog/css
   style: compressed
